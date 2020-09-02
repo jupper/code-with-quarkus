@@ -1,0 +1,53 @@
+Manifest-Version: 1.0
+Class-Path:  lib/jakarta.annotation.jakarta.annotation-api-1.3.5.jar lib
+ /jakarta.inject.jakarta.inject-api-1.0.jar lib/io.smallrye.common.small
+ rye-common-annotation-1.1.0.jar lib/io.smallrye.config.smallrye-config-
+ common-1.8.5.jar lib/io.smallrye.common.smallrye-common-function-1.1.0.
+ jar lib/io.smallrye.common.smallrye-common-expression-1.1.0.jar lib/io.
+ smallrye.common.smallrye-common-constraint-1.1.0.jar lib/io.smallrye.co
+ nfig.smallrye-config-1.8.5.jar lib/org.jboss.logging.jboss-logging-3.3.
+ 2.Final.jar lib/org.jboss.logmanager.jboss-logmanager-embedded-1.0.4.ja
+ r lib/org.jboss.logging.jboss-logging-annotations-2.1.0.Final.jar lib/o
+ rg.jboss.threads.jboss-threads-3.1.1.Final.jar lib/org.slf4j.slf4j-api-
+ 1.7.30.jar lib/org.jboss.slf4j.slf4j-jboss-logging-1.2.0.Final.jar lib/
+ org.graalvm.sdk.graal-sdk-20.1.0.jar lib/org.wildfly.common.wildfly-com
+ mon-1.5.4.Final-format-001.jar lib/io.quarkus.quarkus-bootstrap-runner-
+ 1.7.1.Final.jar lib/io.quarkus.quarkus-core-1.7.1.Final.jar lib/io.quar
+ kus.quarkus-security-runtime-spi-1.7.1.Final.jar lib/io.quarkus.quarkus
+ -development-mode-spi-1.7.1.Final.jar lib/org.reactivestreams.reactive-
+ streams-1.0.3.jar lib/io.smallrye.reactive.mutiny-0.7.0.jar lib/io.quar
+ kus.security.quarkus-security-1.1.2.Final.jar lib/jakarta.el.jakarta.el
+ -api-3.0.3.jar lib/jakarta.interceptor.jakarta.interceptor-api-1.2.5.ja
+ r lib/jakarta.enterprise.jakarta.enterprise.cdi-api-2.0.2.jar lib/io.ne
+ tty.netty-codec-4.1.49.Final.jar lib/io.netty.netty-handler-4.1.49.Fina
+ l.jar lib/io.quarkus.quarkus-netty-1.7.1.Final.jar lib/io.netty.netty-c
+ ommon-4.1.49.Final.jar lib/io.netty.netty-buffer-4.1.49.Final.jar lib/i
+ o.netty.netty-transport-4.1.49.Final.jar lib/io.netty.netty-codec-socks
+ -4.1.49.Final.jar lib/io.netty.netty-handler-proxy-4.1.49.Final.jar lib
+ /io.netty.netty-codec-http-4.1.49.Final.jar lib/io.netty.netty-codec-ht
+ tp2-4.1.49.Final.jar lib/io.netty.netty-resolver-4.1.49.Final.jar lib/i
+ o.netty.netty-codec-dns-4.1.49.Final.jar lib/io.netty.netty-resolver-dn
+ s-4.1.49.Final.jar lib/com.fasterxml.jackson.core.jackson-core-2.11.2.j
+ ar lib/io.vertx.vertx-core-3.9.2.jar lib/io.quarkus.quarkus-vertx-core-
+ 1.7.1.Final.jar lib/io.vertx.vertx-web-common-3.9.2.jar lib/io.vertx.ve
+ rtx-auth-common-3.9.2.jar lib/io.vertx.vertx-bridge-common-3.9.2.jar li
+ b/io.vertx.vertx-web-3.9.2.jar lib/io.quarkus.quarkus-vertx-http-1.7.1.
+ Final.jar lib/jakarta.transaction.jakarta.transaction-api-1.3.3.jar lib
+ /io.quarkus.arc.arc-1.7.1.Final.jar lib/org.eclipse.microprofile.contex
+ t-propagation.microprofile-context-propagation-api-1.0.1.jar lib/io.qua
+ rkus.quarkus-arc-1.7.1.Final.jar lib/org.jboss.spec.javax.ws.rs.jboss-j
+ axrs-api_2.1_spec-2.0.1.Final.jar lib/org.jboss.spec.javax.xml.bind.jbo
+ ss-jaxb-api_2.3_spec-2.0.0.Final.jar lib/org.jboss.resteasy.resteasy-co
+ re-spi-4.5.6.Final.jar lib/com.ibm.async.asyncutil-0.1.0.jar lib/org.ec
+ lipse.microprofile.config.microprofile-config-api-1.4.jar lib/org.jboss
+ .resteasy.resteasy-core-4.5.6.Final.jar lib/com.sun.activation.jakarta.
+ activation-1.2.1.jar lib/io.quarkus.quarkus-resteasy-common-1.7.1.Final
+ .jar lib/jakarta.validation.jakarta.validation-api-2.0.2.jar lib/io.qua
+ rkus.quarkus-resteasy-server-common-1.7.1.Final.jar lib/io.quarkus.quar
+ kus-resteasy-1.7.1.Final.jar lib/io.quarkus.quarkus-kubernetes-client-i
+ nternal-1.7.1.Final.jar lib/io.quarkus.quarkus-kubernetes-1.7.1.Final.j
+ ar lib/io.quarkus.quarkus-container-image-jib-1.7.1.Final.jar
+Main-Class: io.quarkus.runner.GeneratedMain
+Implementation-Title: code-with-quarkus
+Implementation-Version: 1.0.0-SNAPSHOT
+
